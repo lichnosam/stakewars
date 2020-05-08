@@ -41,3 +41,4 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | <img src="https://raw.githubusercontent.com/stakery/stakery/master/assets/stakery-logo-256.png" width="40"> | [Stakery](https://stakery.io) | Staking around the clock. Berlin-based. | @stakery.betanet | -% | DE |
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.
+| | manhplus | first Ukrainian validator | @humanh.betanet | -% | UA |
