@@ -56,3 +56,4 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 
 
 Note: at this stage, the delegation contract doesn't support validator fees. Therefore the `Fees` column is now empty with `-%`, , so we can scope this phase to test the deposit/staking, performance/returns, and unstaking/withdraw.
+| | manhplus | - | @humanh.betanet | -% | UA |
